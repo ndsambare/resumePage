@@ -1,14 +1,4 @@
-# Bootstrap4Resume
-
-A single-page static website with a fixed sidebar, smooth scrolling navigation, and content sections. Great for an elegant resume or portfolio. Mobile-friendly. 
-
-## Introduction
-
-This is a simple yet elegant website created with the help of a free Bootstrap template. It's fully responsive and easy to adapt for your own purposes. You just need some skills in HTML, Bootstrap 4, and CSS3 to personalize it. A working contact form is included. 
-
-## Live Preview
-
-<p><a href="https://bootstrap4resume.deployonfriday.net/" target="_blank"> <img src="https://github.com/DrSavvina/Bootstrap4Resume/blob/master/preview1.png"></a></p>
+This website is a base resume template design I found and adapted for my personal information. It is an interactive website design showcasing my skills and strengths as a potential software employee. It also provides contact information and a links to my social media as a way to get to know more about me. I fully believe that as an employee, one of my top strengths is not just that I feel I have the skills to help develop software but also the ability to work well with people in any group setting.
 
 ## Technologies Used
 
@@ -27,6 +17,4 @@ This is a simple yet elegant website created with the help of a free Bootstrap t
 * http://konpa.github.io/devicon/
 * https://formspree.io/
 
-## How to Use it
 
-After downloading, you can edit the HTML and CSS files to make the changes you want and personalize the template. Check your changes opening the index.html in your browser.
